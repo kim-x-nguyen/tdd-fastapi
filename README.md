@@ -34,9 +34,9 @@ pytest app/test.py
 
 ### Run with Docker
 
-Make sure Docker and Dock compose is install.
+Make sure Docker and Docker compose are installed.
 
-Use Docker Compose to build docker image from project's root folder:
+Use Docker Compose to build a docker image from project's root folder:
 
 ```
 $ docker compose build
